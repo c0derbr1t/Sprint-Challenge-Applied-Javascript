@@ -33,4 +33,3 @@ function Header() {
 const headerContainer = document.querySelector('.header-container');
 
 headerContainer.appendChild(Header());
-console.log(Header());
